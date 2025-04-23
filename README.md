@@ -1,6 +1,8 @@
-# mod3_kel31
+# Aplikasi Praktikum PPB menggunakan Flutter
+- Menerapkan fitur pada flutter
+- Menerapkan API
 
-A new Flutter project.
+Tangguh Chairunnisa
 
 ## Getting Started
 
